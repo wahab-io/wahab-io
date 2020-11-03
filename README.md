@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there! 👋 I am **Wahab**, curretly working as `DevOps Architect at Amazon Web Services, Inc`. Some of the things I work on day-to-day basis:
+
+1. Helping AWS Customers with ☁️ cloud migration and 🔧 application modernization
+1. Provide DevOps guidance 📚 to our customers
+1. Spend a lot of time writing automation 🤖
+1. Also helping customers saves money 💰
 
 <!--
 **wahabakhtar/wahabakhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
