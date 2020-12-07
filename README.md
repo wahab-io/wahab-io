@@ -3,7 +3,7 @@ Hi there! 👋 I am **Wahab**, curretly working as `DevOps Cloud Architect at Am
 1. Helping AWS Customers with ☁️ cloud migration and 🔧 application modernization
 1. Provide DevOps guidance 📚 to our customers
 1. Spend a lot of time writing automation 🤖
-1. Also helping customers saves money 💰
+1. Also helping customers save money 💰
 
 <!--
 **wahabakhtar/wahabakhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
